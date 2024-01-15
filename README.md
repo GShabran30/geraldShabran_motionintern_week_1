@@ -1,16 +1,6 @@
-# geralds_shabran_motionintern_week_1
+# Starbucks Redesign
+Slicing design of the starbucks app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screens
+- On Board
+<img width="341" alt="Onboard" src="https://github.com/GShabran30/geraldShabran_motionintern_week_1/assets/121564681/4271c5a5-7308-4690-8135-3b822a040c29">
